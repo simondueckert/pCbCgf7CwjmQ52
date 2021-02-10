@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/fear-of-ghosts-machine-lullaby-1.mp3"
+                 "value":"https:\/\/transfer.cogneon.de\/fear-of-ghosts-machine-lullaby-1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
