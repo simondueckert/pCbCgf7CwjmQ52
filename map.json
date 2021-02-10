@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.elearning2null.de\/wp-content\/uploads\/ePortfolio-Learning-Circle-Guide-v1.0_en.pdf"
+                 "value":"https:\/\/cogneon.github.io\/lernos-expert-debriefing\/de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
