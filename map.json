@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/cogneon\/lernos-expert-debriefing\/blob\/master\/de\/lernOS-expert-debriefing-Guide-de.pdf"
+                 "value":"http:\/\/www.elearning2null.de\/wp-content\/uploads\/ePortfolio-Learning-Circle-Guide-v1.0_en.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
