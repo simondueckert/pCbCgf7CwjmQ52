@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.cogneon.de\/index.php\/s\/FBRK8cZskXSr5Qm"
+                 "value":"https:\/\/github.com\/cogneon\/lernos-expert-debriefing\/blob\/master\/de\/lernOS-expert-debriefing-Guide-de.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
