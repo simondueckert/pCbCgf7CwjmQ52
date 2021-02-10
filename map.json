@@ -17,7 +17,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"https:\/\/transfer.cogneon.de\/fear-of-ghosts-machine-lullaby-1.mp3"
                 }],
