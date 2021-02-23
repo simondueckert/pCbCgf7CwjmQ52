@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cogneon.github.io\/lernos-eportfolio\/en\/"
+                 "value":"https:\/\/cogneon.github.io\/lernos-eportfolio\/en\/1-Basics\/"
                 }],
          "type":"tilelayer",
          "visible":true,
